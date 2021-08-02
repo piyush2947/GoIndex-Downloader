@@ -1,3 +1,6 @@
+#Note:
+This script was made for old google index and will not work for arcou index
+
 # GoIndex-Downloader
 Google Colab Python Script to Download GoIndex Repository
 
